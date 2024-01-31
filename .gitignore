@@ -1,0 +1,22 @@
+# Prime
+
+# Node
+node_modules
+yarn.lock
+.env
+
+# Hardhat files
+coverage
+coverage.json
+cache
+artifacts
+
+# VSCode
+.vscode
+.VSCodeCounter
+
+# Mac
+.DS_Store
+
+# Debug
+debug.log
